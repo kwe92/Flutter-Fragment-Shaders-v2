@@ -6,6 +6,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
+//!! TODO: under standing this Class and why it is needed
 class UiScaler extends StatelessWidget {
   const UiScaler({
     super.key,
