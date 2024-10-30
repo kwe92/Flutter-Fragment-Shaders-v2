@@ -4,6 +4,8 @@
 
 import 'dart:ui';
 
+//?? Good way to consolidate images
+
 class AssetPaths {
   AssetPaths._();
 
