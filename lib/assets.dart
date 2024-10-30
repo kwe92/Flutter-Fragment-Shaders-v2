@@ -20,8 +20,8 @@ class AssetPaths {
   static const String titleMgEmit = '$_images/mg-light-emit.png';
   static const String titleMgReceive = '$_images/mg-light-receive.png';
   static const String titleMgBase = '$_images/mg-base.png';
-  static const String titleStartBtn = '$_images/button-start.png';
-  static const String titleStartBtnHover = '$_images/button-start-hover.png';
+  static const String titleStartButton = '$_images/button-start.png';
+  static const String titleStartButtonHover = '$_images/button-start-hover.png';
   static const String titleStartArrow = '$_images/button-start-arrow.png';
   static const String titleSelectedLeft = '$_images/select-left.png';
   static const String titleSelectedRight = '$_images/select-right.png';
